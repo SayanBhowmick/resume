@@ -1,0 +1,60 @@
+.image{
+    border-radius: 25%;
+}
+.info{
+    text-align: center;
+    text-decoration: solid;
+    
+}
+.name{
+    color: cadetblue;
+}
+/* .contact{
+    height: 150px;
+    width: 400px;
+    display: inline-block;
+    
+    position: relative;
+   left: 900px;
+   bottom: 260px;
+} */
+.info1{
+    height: 200px;
+    width: 400px;
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+.table{
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.table1{
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+
+span{
+
+    text-decoration: solid underline ;
+    position: relative;
+    left: 0px;
+    color: saddlebrown;
+}
+.achiv{
+    position: relative;
+    top: 80px;
+}
+.skil{
+    position: relative;
+    top: 20px;
+}
+.hobb{
+    position: relative;
+    top: 100px;
+}
+body{
+    background-color: wheat;
+}
